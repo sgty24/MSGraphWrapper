@@ -1,0 +1,2 @@
+# MSGraphWrapper
+MSALとMicrosoft GraphをラップしてGraphServiceClientを取得するためのクラス
